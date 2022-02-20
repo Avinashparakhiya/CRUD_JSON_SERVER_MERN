@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "firstName": "Avinash",
+      "lastName": "Parakhiya",
+      "gender": "Male",
+      "phoneNumber": "9033967841",
+      "id": 1
+    }
+  ]
+}
